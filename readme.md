@@ -1,0 +1,1 @@
+will work on how to create poems with code. javascript, and python, eventually other languages as i learn them. functions, classes/objects, arrays, strings, loops, and log statements as poems. a lil experiment. maybe ventually too some will coexist with html & css and require user input/interaction to complete. }}ongoing{{ <3 kd
